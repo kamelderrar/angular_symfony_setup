@@ -13,3 +13,4 @@ Front :
 - Mise en place de l'application dans le projet
 - Création des différents composants
 - Service de login avec angular jwt token
+- Récupération des données générées par les fixtures
